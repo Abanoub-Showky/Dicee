@@ -20,9 +20,9 @@
   <br>
   <li><b><a href="#technologies">Technologies</a></b></li>
   <br>
-  <li><b><a href="creator">Creator</a></b></li>
+  <li><b><a href="#creator">Creator</a></b></li>
   <br>
-  <li><b><a href="copyright">Copyright and licence</a></b></li>
+  <li><b><a href="#copyright">Copyright and licence</a></b></li>
 </ul>  
 
 
