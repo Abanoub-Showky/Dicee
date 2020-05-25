@@ -1,16 +1,13 @@
 
-<center>
-    <h1>Dicee 🎲</h1>
-</center>
+ <h1 align="center">Dicee 🎲</h1>
   
-<center>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnW8HfuG_dxk4tbw_TmNKnNxa0PJtckBIdoBN99b6lVwXenT-P&usqp=CAU"/></center>
-  
-<center>
-  <p>
+<p align="center">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnW8HfuG_dxk4tbw_TmNKnNxa0PJtckBIdoBN99b6lVwXenT-P&usqp=CAU"/>
+</p> 
+
+<p align="center">
   The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps   you’ll build in the future.
-  </p>
-</center>
+</p>
 
 <br><br><br>
 
@@ -41,8 +38,10 @@
 <h2 id="screenshots">Screenshot (Gif image)</h2>
 
 <br>
+<p align="center">
 <img src="https://i.imgur.com/Soesd5N.gif" title="source: imgur.com" />
 <br>
+</p
 
 <h2 id="technologies">Technologies</h2>
 
