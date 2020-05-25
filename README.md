@@ -9,7 +9,7 @@
   The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps   you’ll build in the future.
 </p>
 
-<br><br><br>
+<br>
 
 <h2>Table of contents</h2>
 
@@ -40,8 +40,8 @@
 <br>
 <p align="center">
 <img src="https://i.imgur.com/Soesd5N.gif" title="source: imgur.com" />
+</p>
 <br>
-</p
 
 <h2 id="technologies">Technologies</h2>
 
