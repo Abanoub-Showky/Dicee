@@ -1,9 +1,6 @@
-# Dicee
-<!DOCTYPE html>
-<html>
-<body>
+
 <center>
-<h1>Dicee 🎲</h1>
+    <h1>Dicee 🎲</h1>
 </center>
   
 <center>
@@ -18,7 +15,6 @@
 <br><br><br>
 
 <h2>Table of contents</h2>
-<hr>
 
 <ul>
   <li><b><a href="#description">Description</a></b></li>
@@ -34,7 +30,6 @@
 
 
 <h2 id="description">Description</h2>
-<hr>
 
 <p>
   The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps   you’ll build in the future.
@@ -44,14 +39,12 @@
 <br>
   
 <h2 id="screenshots">Screenshot (Gif image)</h2>
-<hr>
 
 <br>
 <img src="https://i.imgur.com/Soesd5N.gif" title="source: imgur.com" />
 <br>
 
 <h2 id="technologies">Technologies</h2>
-<hr>
 
 <ul>
    <li><b>Android</b></li>
@@ -61,18 +54,14 @@
 
 <br>
 <h2 id="creator">Creator</h2>
-<hr>
 
 <a href="https://github.com/Abanoub-Showky"><b>Abanoub Shawky</b></a>
 <br>
 <br>
 
 <h2 id="copyright">Copyright and license</h2>
-<hr>
 
 <p>
    Code and documentation copyright 2020 the authors. Code released under the MIT License.
 </p>
 
-</body>
-</html>
