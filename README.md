@@ -47,7 +47,6 @@
 
 <ul>
    <li><b>Android</b></li>
-   <br>
    <li><b>Java</b></li>
 </ul>
 
