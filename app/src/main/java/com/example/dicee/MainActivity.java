@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Toast.makeText(MainActivity.this, "Left Image Clicked !", Toast.LENGTH_SHORT).show();
                 imageViewLeft.setImageResource(images[generateRandomInteger()]);
+                imageViewRight.setImageResource(images[generateRandomInteger()]);
             }
         });
 
@@ -47,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this, " Right Image Clicked !", Toast.LENGTH_SHORT).show();
                 Log.i("tag",generateRandomInteger()+"");
                 imageViewRight.setImageResource(images[generateRandomInteger()]);
+                imageViewLeft.setImageResource(images[generateRandomInteger()]);
             }
         });
     }
