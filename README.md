@@ -1,20 +1,21 @@
 
-<h1 align="center">Dicee 🎲</h1>
 <p align="center">
      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnW8HfuG_dxk4tbw_TmNKnNxa0PJtckBIdoBN99b6lVwXenT-P&usqp=CAU"/>
 </p> 
+
+<h2 align="center">Dicee 🎲</h2>
 
 <p align="center">
   The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps   you’ll build in the future.
 </p>
 
 ## Table of contents
-
 - [Description](#description)
 - [Screenshots](#screenshots)
 - [Technologies](#technologies)
 - [Creator](#creator)
-- [Copyright and licence](#copyright)
+- [Copyright and license](#copyright-and-license)
+
 
 
 ## Description
@@ -28,13 +29,13 @@
 </p>
 
 ## Technologies
-*Android
-*Java
+* Android
+* Java
 
-##Creator
+## Creator
 [**Abanoub Shawky**](https://github.com/Abanoub-Showky)
 
-##Copyright and license
+## Copyright and license
 <p>
    Code and documentation copyright 2020 the authors. Code released under the MIT License.
 </p>
