@@ -1,64 +1,40 @@
 
- <h1 align="center">Dicee 🎲</h1>
-  
+<h1 align="center">Dicee 🎲</h1>
 <p align="center">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnW8HfuG_dxk4tbw_TmNKnNxa0PJtckBIdoBN99b6lVwXenT-P&usqp=CAU"/>
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnW8HfuG_dxk4tbw_TmNKnNxa0PJtckBIdoBN99b6lVwXenT-P&usqp=CAU"/>
 </p> 
 
 <p align="center">
   The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps   you’ll build in the future.
 </p>
 
-<br>
+## Table of contents
 
-<h2>Table of contents</h2>
-
-<ul>
-  <li><b><a href="#description">Description</a></b></li>
-  <br>
-  <li><b><a href="#screenshots">Screenshots</a></b></li>
-  <br>
-  <li><b><a href="#technologies">Technologies</a></b></li>
-  <br>
-  <li><b><a href="#creator">Creator</a></b></li>
-  <br>
-  <li><b><a href="#copyright">Copyright and licence</a></b></li>
-</ul>  
+- [Description](#description)
+- [Screenshots](#screenshots)
+- [Technologies](#technologies)
+- [Creator](#creator)
+- [Copyright and licence](#copyright)
 
 
-<h2 id="description">Description</h2>
-
+## Description
 <p>
   The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps   you’ll build in the future.
 </p>
-
-<br>
-<br>
   
-<h2 id="screenshots">Screenshot (Gif image)</h2>
-
-<br>
+## Screenshots
 <p align="center">
 <img src="https://i.imgur.com/Soesd5N.gif" title="source: imgur.com" />
 </p>
-<br>
 
-<h2 id="technologies">Technologies</h2>
+## Technologies
+*Android
+*Java
 
-<ul>
-   <li><b>Android</b></li>
-   <li><b>Java</b></li>
-</ul>
+##Creator
+[**Abanoub Shawky**](https://github.com/Abanoub-Showky)
 
-<br>
-<h2 id="creator">Creator</h2>
-
-<a href="https://github.com/Abanoub-Showky"><b>Abanoub Shawky</b></a>
-<br>
-<br>
-
-<h2 id="copyright">Copyright and license</h2>
-
+##Copyright and license
 <p>
    Code and documentation copyright 2020 the authors. Code released under the MIT License.
 </p>
