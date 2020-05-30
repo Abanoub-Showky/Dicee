@@ -1,9 +1,8 @@
 
+
 <p align="center">
      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnW8HfuG_dxk4tbw_TmNKnNxa0PJtckBIdoBN99b6lVwXenT-P&usqp=CAU"/>
 </p> 
-
-<h2 align="center">Dicee 🎲</h2>
 
 <p align="center">
   The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps   you’ll build in the future.
