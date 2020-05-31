@@ -24,7 +24,7 @@
   
 ## Screenshots
 <p align="center">
-<img src="https://i.imgur.com/Soesd5N.gif" title="source: imgur.com" />
+<img src="https://i.imgur.com/Soesd5N.gif" title="source: imgur.com" height="380"/>
 </p>
 
 ## Technologies
